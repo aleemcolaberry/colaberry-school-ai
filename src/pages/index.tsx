@@ -24,9 +24,14 @@ declare global {
 type Vars = React.CSSProperties & Record<`--${string}`, string | number>;
 
 const REGISTER_URL = "https://learn.colaberry.com/";
-const LOGO = "/ai-accelerator/logo/colaberry-horizontal.png";
-const LOGO_WHITE = "/ai-accelerator/logo/colaberry-horizontal-white.png";
-const MARK_WHITE = "/ai-accelerator/logo/colaberry-mark-white.png";
+/* Sub-path the site is served under (e.g. "/colaberry-school-ai" on GitHub
+   Pages). Set at build time via NEXT_PUBLIC_BASE_PATH; empty for root deploys
+   and local dev. Used to prefix raw asset paths under /public, which Next does
+   not rewrite automatically (unlike _next/ and next/link). */
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH || "";
+const LOGO = `${BASE}/ai-accelerator/logo/colaberry-horizontal.png`;
+const LOGO_WHITE = `${BASE}/ai-accelerator/logo/colaberry-horizontal-white.png`;
+const MARK_WHITE = `${BASE}/ai-accelerator/logo/colaberry-mark-white.png`;
 
 /* ------------------------------------------------------------------ */
 /* Helpers                                                             */
@@ -1368,16 +1373,16 @@ export default function AiAcceleratorOpenHouse() {
           property="og:description"
           content="Learn with Claude. Build through Colaberry. Deploy in the real world. Free live Open House — June 21, 2026."
         />
-        <meta property="og:image" content="/ai-accelerator/logo/og-1200x630.png" />
+        <meta property="og:image" content={`${BASE}/ai-accelerator/logo/og-1200x630.png`} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="AI Systems Architect Accelerator — Free Open House" />
         <meta
           name="twitter:description"
           content="Learn with Claude. Build through Colaberry. Deploy in the real world. Free live Open House — June 21, 2026."
         />
-        <meta name="twitter:image" content="/ai-accelerator/logo/og-1200x630.png" />
-        <link rel="icon" href="/ai-accelerator/logo/favicon-32.png" />
-        <link rel="stylesheet" href="/ai-accelerator/styles.css" />
+        <meta name="twitter:image" content={`${BASE}/ai-accelerator/logo/og-1200x630.png`} />
+        <link rel="icon" href={`${BASE}/ai-accelerator/logo/favicon-32.png`} />
+        <link rel="stylesheet" href={`${BASE}/ai-accelerator/styles.css`} />
       </Head>
 
       <Script src="https://unpkg.com/lucide@0.460.0/dist/umd/lucide.min.js" strategy="afterInteractive" onLoad={drawIcons} />
