@@ -110,9 +110,22 @@ npm run build      # generates ./out
 
 Then upload the **contents of `out/`** to your host:
 
+- **Vercel** — zero-config (see below); the `output: "export"` is detected and served statically.
 - **Netlify** — publish directory `out` (build command `npm run build`).
-- **Vercel** — auto-detected; or set output to `out` for a static deploy.
 - **GitHub Pages / S3 + CloudFront / nginx / Apache** — serve `out/` as the web root.
+
+### Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/aleemcolaberry/colaberry-school-ai)
+
+Vercel auto-detects Next.js and the static export ([`vercel.json`](vercel.json) pins
+the framework + build command). To connect this repo:
+
+1. Go to **https://vercel.com/new** and sign in with GitHub.
+2. **Import** `aleemcolaberry/colaberry-school-ai` (authorize Vercel for the repo if asked).
+3. Leave the defaults — Framework **Next.js**, build `next build`, install `npm ci`.
+   Do **not** set `NEXT_PUBLIC_BASE_PATH` (Vercel serves at the domain root).
+4. Click **Deploy**. Every push to `main` then redeploys automatically.
 
 `trailingSlash: true` is enabled so routes resolve as `/path/index.html`
 without server rewrites, and images are emitted unoptimized (the page uses
