@@ -11,6 +11,11 @@ animation-rich marketing page built to convert visitors into event registrations
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Static Export](https://img.shields.io/badge/deploy-static%20export-77BB4A)
 
+**🔗 Live demo:** https://aleemcolaberry.github.io/colaberry-school-ai/
+
+> Auto-deployed to GitHub Pages on every push to `main` via
+> [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
+
 ---
 
 ## ✨ What it is
