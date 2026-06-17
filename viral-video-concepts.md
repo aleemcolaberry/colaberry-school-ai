@@ -2,7 +2,7 @@
 
 **Owner:** Aleem · **Status:** Draft for review → approval by **Sohail & Ali**
 **Source positioning:** [src/pages/index.tsx](src/pages/index.tsx) (landing page) + program overview
-**Event:** Free Open House · Live online · **June 21, 2026** · No degree, no tests, just bring an idea
+**Event:** Free Open House · Live online · **July 16, 2026** · No degree, no tests, just bring an idea
 **Tagline:** *Learn with Claude. Build through Colaberry. Deploy in the real world.*
 **Core message:** *AI isn't replacing people. It's replacing the people who don't know how to build with it.*
 
@@ -50,8 +50,8 @@ Every concept below uses this shared structure so they're comparable and brief-r
   - **3–10s** "Right now there are two people doing your job. One types questions into a chatbot. The other builds systems that do the work for them."
   - **10–22s** Split-screen B-roll: left = someone copy-pasting from a chatbot; right = screen capture of an actual agent/skill running a task end-to-end.
   - **22–32s** "The gap between them isn't talent. It's 12 weeks." Quick montage of the 12-week idea→working-system stat, Colaberry proof (5,000+ careers changed, 49 countries).
-  - **32–40s** Direct to camera: "We're showing exactly how it works — live, free, June 21. Bring an idea." CTA card.
-- **On-screen text:** `AI won't replace you.` → `The builder will.` → `User → Builder in 12 weeks` → `Free Open House · June 21`
+  - **32–40s** Direct to camera: "We're showing exactly how it works — live, free, July 16. Bring an idea." CTA card.
+- **On-screen text:** `AI won't replace you.` → `The builder will.` → `User → Builder in 12 weeks` → `Free Open House · July 16`
 - **CTA:** "Save your seat — link in bio" → `learn.colaberry.com`
 - **Share trigger:** The reframed fear ("it's not AI, it's the *builder*") is a quotable, slightly provocative line people tag colleagues with.
 - **Production:** 1 presenter, phone, 1 screen-capture clip of an agent running. ~1 hr shoot.
@@ -69,8 +69,8 @@ Every concept below uses this shared structure so they're comparable and brief-r
   - **0–4s** Hook text over a hand holding a sticky note that just says "an idea".
   - **4–18s** Fast time-lapse: sticky note → prompt in Claude → a Skill/agent diagram (mirror the site's PROMPT → MODEL → SKILL schematic) → a working app screen.
   - **18–25s** "No degree. No tests. Just an idea and 12 weeks." 
-  - **25–30s** "It starts at the free Open House — June 21." CTA.
-- **On-screen text:** `idea` → `prompt` → `system` → `shipped` → `Free · June 21`
+  - **25–30s** "It starts at the free Open House — July 16." CTA.
+- **On-screen text:** `idea` → `prompt` → `system` → `shipped` → `Free · July 16`
 - **CTA:** "Come see day one — free. Link in bio."
 - **Share trigger:** Satisfying transformation arc + the "no degree / no tests" line lowers the barrier; viewers share to friends who say "I'm not technical enough."
 - **Production:** Screen recordings + simple motion text. No on-camera talent required (works as faceless content).
@@ -89,8 +89,8 @@ Every concept below uses this shared structure so they're comparable and brief-r
   - **3–15s** **#1** "Watching tutorials isn't building. You learn AI by shipping something that breaks."
   - **15–28s** **#2** "Prompting is not the skill. The skill is designing the *system* — prompt → model → skills → agents." (show the schematic)
   - **28–38s** **#3** "You don't need a CS degree. You need one real project and feedback from people who've shipped."
-  - **38–45s** "That's literally what the Open House previews — free, June 21." CTA.
-- **On-screen text:** `#1 tutorials ≠ building` → `#2 prompting ≠ the skill` → `#3 no degree needed` → `Free · June 21`
+  - **38–45s** "That's literally what the Open House previews — free, July 16." CTA.
+- **On-screen text:** `#1 tutorials ≠ building` → `#2 prompting ≠ the skill` → `#3 no degree needed` → `Free · July 16`
 - **CTA:** "Full walkthrough at the free Open House — link in bio."
 - **Share trigger:** Strong-opinion list format is highly saveable/shareable; #2 ("prompting is not the skill") is a debate-starter that drives comments → reach.
 - **Production:** 1 presenter talking to camera + 1 schematic overlay. ~45 min shoot.
@@ -108,8 +108,8 @@ Every concept below uses this shared structure so they're comparable and brief-r
   - **0–5s** Hook to camera.
   - **5–18s** "I'm not a developer. I started with one idea and a lot of doubt." B-roll of them working on a laptop.
   - **18–28s** "Twelve weeks later I had a working AI system — and a completely different relationship with my job." Show 5,000+ / 49-countries proof.
-  - **28–35s** "If that's where you are, the free Open House is where it starts — June 21." CTA.
-- **On-screen text:** `"scared → builder"` → `not a developer` → `12 weeks` → `Free · June 21`
+  - **28–35s** "If that's where you are, the free Open House is where it starts — July 16." CTA.
+- **On-screen text:** `"scared → builder"` → `not a developer` → `12 weeks` → `Free · July 16`
 - **CTA:** "Start where I started — free Open House, link in bio."
 - **Share trigger:** Relatable identity story ("not a developer / was scared") gives permission; viewers DM it to a friend in the same spot.
 - **Production:** 1 real learner or stand-in + light B-roll. (If using a real alum, get a quote/release — flag for Sohail.)
@@ -127,8 +127,8 @@ Every concept below uses this shared structure so they're comparable and brief-r
   - **0–5s** Hook + start countdown.
   - **5–40s** Real screen capture: type a plain-English goal → Claude → define a Skill → agent runs the task → result appears. Narrate the PROMPT → MODEL → SKILL → DEPLOY arc.
   - **40–52s** "That's the exact framework we teach: Learn with Claude. Build through Colaberry. Deploy in the real world."
-  - **52–60s** Timer hits zero. "Want the full version? Free Open House, June 21." CTA.
-- **On-screen text:** `sentence → agent in 60s` → countdown → `Learn · Build · Deploy` → `Free · June 21`
+  - **52–60s** Timer hits zero. "Want the full version? Free Open House, July 16." CTA.
+- **On-screen text:** `sentence → agent in 60s` → countdown → `Learn · Build · Deploy` → `Free · July 16`
 - **CTA:** "See the full system live — free, link in bio."
 - **Share trigger:** The countdown + tangible "it actually works" payoff is highly rewatchable and screenshot-worthy; technical viewers stitch/duet it.
 - **Production:** Screen capture + voiceover. Highest "proof" value; rehearse the build so it lands inside 60s.
