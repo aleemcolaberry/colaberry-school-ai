@@ -27,7 +27,7 @@
 | 4 | 20–35s | Screen: define/attach a **Skill**, agent starts running steps. | "Now I give it a Skill, and it runs the task itself — this is the system, not just a chat." | `model → skill` (green) | This is the proof beat. Highlight the agent acting autonomously. |
 | 5 | 35–45s | Screen: result appears (working output). Brief face-cam reaction PiP. | "And… it works. That's a real AI system, built live." | `✅ it works` | The payoff. Let the result breathe ~1s. |
 | 6 | 45–53s | Motion-graphic: PROMPT → MODEL → SKILL → DEPLOY arc (mirror site schematic). | "That's the exact framework we teach: Learn with Claude. Build through Colaberry. Deploy in the real world." | `Learn · Build · Deploy` | Reuse the landing-page blueprint style for brand continuity. |
-| 7 | 53–60s | Timer hits **0:00**. Cut to presenter + CTA card. | "Want the full version, live? Free Open House, June 21. Link in bio." | `Free Open House · June 21` + CTA | Timer-to-zero = satisfying close + rewatch trigger. |
+| 7 | 53–60s | Timer hits **0:00**. Cut to presenter + CTA card. | "Want the full version, live? Free Open House, July 16. Link in bio." | `Free Open House · July 16` + CTA | Timer-to-zero = satisfying close + rewatch trigger. |
 
 ---
 

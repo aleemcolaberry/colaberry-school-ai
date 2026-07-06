@@ -237,7 +237,7 @@ function RegCard() {
   }, [done]);
 
   const rows = [
-    { icon: "calendar-days", l: "Date", v: "June 21, 2026" },
+    { icon: "calendar-days", l: "Date", v: "July 16, 2026" },
     { icon: "monitor", l: "Format", v: "Live online event" },
     { icon: "ticket", l: "Price", v: "Free registration" },
   ];
@@ -263,7 +263,7 @@ function RegCard() {
             <h3>Almost there — check your inbox</h3>
             <p>
               We&apos;ve sent a confirmation link to <strong>{email}</strong>. Click it to lock in your free seat
-              for June 21.
+              for July 16.
             </p>
           </div>
         ) : (
@@ -330,7 +330,7 @@ function AwNav() {
         <div className="aw-nav__meta">
           <span className="aw-nav__date">
             <I n="calendar-days" s={15} />
-            JUN 21 2026 — LIVE ONLINE
+            JUL 16 2026 — LIVE ONLINE
           </span>
           <Button
             size="sm"
@@ -359,7 +359,7 @@ function AwMarquee() {
     <span key="c">
       Deploy in the <em className="is-red">real world</em>
     </span>,
-    <span key="d">Free Open House — June 21, 2026</span>,
+    <span key="d">Free Open House — July 16, 2026</span>,
   ];
   const list = (hidden: boolean) => (
     <div className="aw-mq__list" aria-hidden={hidden || undefined}>
@@ -596,7 +596,7 @@ function AwHero() {
           <div className="aw-hero__meta">
             <span>
               <I n="calendar-days" />
-              June 21, 2026
+              July 16, 2026
             </span>
             <span>
               <I n="monitor" />
@@ -1239,7 +1239,7 @@ function AwFinal() {
     <section className="aw-final aw-grain aw-grain--light" id="reserve">
       <img className="aw-final__mark" src={MARK_WHITE} alt="" aria-hidden="true" />
       <div className="aw-final__inner">
-        <span className="aw-final__kicker">FREE — JUNE 21, 2026 — LIVE ONLINE</span>
+        <span className="aw-final__kicker">FREE — JULY 16, 2026 — LIVE ONLINE</span>
         <h2 className="aw-final__h">Save your seat.</h2>
         <p className="aw-final__p">
           Seats are limited for this live event. Register today and see how AI builders are creating the next
@@ -1279,7 +1279,7 @@ function AwFooter() {
         <div className="aw-footer__meta">
           <span>
             <I n="calendar-days" s={16} />
-            June 21, 2026 · Free Open House
+            July 16, 2026 · Free Open House
           </span>
           <span>
             <I n="monitor" s={16} />
@@ -1365,20 +1365,20 @@ export default function AiAcceleratorOpenHouse() {
         <title>AI Systems Architect Accelerator — Free Open House | Colaberry</title>
         <meta
           name="description"
-          content="Free live Open House — June 21, 2026. Learn with Claude, build through Colaberry, deploy in the real world. See how the 12-week AI Systems Architect Accelerator turns your idea into a working AI system."
+          content="Free live Open House — July 16, 2026. Learn with Claude, build through Colaberry, deploy in the real world. See how the 12-week AI Systems Architect Accelerator turns your idea into a working AI system."
         />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="AI Systems Architect Accelerator — Free Open House" />
         <meta
           property="og:description"
-          content="Learn with Claude. Build through Colaberry. Deploy in the real world. Free live Open House — June 21, 2026."
+          content="Learn with Claude. Build through Colaberry. Deploy in the real world. Free live Open House — July 16, 2026."
         />
         <meta property="og:image" content={`${BASE}/ai-accelerator/logo/og-1200x630.png`} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="AI Systems Architect Accelerator — Free Open House" />
         <meta
           name="twitter:description"
-          content="Learn with Claude. Build through Colaberry. Deploy in the real world. Free live Open House — June 21, 2026."
+          content="Learn with Claude. Build through Colaberry. Deploy in the real world. Free live Open House — July 16, 2026."
         />
         <meta name="twitter:image" content={`${BASE}/ai-accelerator/logo/og-1200x630.png`} />
         <link rel="icon" href={`${BASE}/ai-accelerator/logo/favicon-32.png`} />
@@ -1404,7 +1404,7 @@ export default function AiAcceleratorOpenHouse() {
         >
           <h1 style={{ fontSize: 28 }}>AI Systems Architect Accelerator — Free Open House</h1>
           <p style={{ fontSize: 17, color: "#4A4A4A" }}>
-            June 21, 2026 · Live online · Free. This page needs JavaScript — or register directly at{" "}
+            July 16, 2026 · Live online · Free. This page needs JavaScript — or register directly at{" "}
             <a href={REGISTER_URL} style={{ color: "#E5121D" }}>
               learn.colaberry.com
             </a>

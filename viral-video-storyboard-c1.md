@@ -26,7 +26,7 @@
 | 2 | 3–10s | Stay on presenter, slight push-in. | "Right now there are two people doing your job. One types questions into a chatbot. The other builds systems that do the work for them." | `2 people. 1 job.` | Conversational, confident. |
 | 3 | 10–22s | **Split screen.** Left: someone copy-pasting from a chatbot. Right: screen capture of an agent/Skill running a task end-to-end. | "The difference? One uses AI. The other builds with it." | `uses AI` (left) / `builds with AI` (right, green) | This contrast IS the argument. Right side should look effortless/autonomous. |
 | 4 | 22–32s | Quick montage: stat cards animate in over Colaberry/brand B-roll. | "And that gap isn't about talent. It's about 12 weeks — the same path 5,000+ people across 49 countries already took." | `Gap = 12 weeks` → `5,000+ careers` → `49 countries` | Fast cuts, one stat per beat. Mirror landing-page counter style. |
-| 5 | 32–40s | Back to presenter + CTA card slides in. | "We're showing exactly how it works — live, free, June 21. Bring an idea." | `Free Open House · June 21` + CTA | End on the reframed-fear energy, not a soft outro. |
+| 5 | 32–40s | Back to presenter + CTA card slides in. | "We're showing exactly how it works — live, free, July 16. Bring an idea." | `Free Open House · July 16` + CTA | End on the reframed-fear energy, not a soft outro. |
 
 ---
 
