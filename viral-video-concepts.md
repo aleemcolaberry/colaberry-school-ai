@@ -1,4 +1,4 @@
-# Viral Video Concepts — AI Systems Architect Accelerator (Free Open House)
+# Viral Video Concepts: AI Systems Architect Accelerator (Free Open House)
 
 **Owner:** Aleem · **Status:** Draft for review → approval by **Sohail & Ali**
 **Source positioning:** [src/pages/index.tsx](src/pages/index.tsx) (landing page) + program overview
@@ -29,7 +29,7 @@ Every concept below uses this shared structure so they're comparable and brief-r
 | **Audience** | Career Changer · Working Pro · Builder/Entrepreneur · Developer |
 | **Platform** | Primary platform fit + aspect ratio |
 | **Length** | Target runtime (≤60s) |
-| **Hook (0–3s)** | The first line/visual that stops the scroll |
+| **Hook (0 to 3s)** | The first line/visual that stops the scroll |
 | **Beat sheet** | Second-by-second narrative |
 | **On-screen text** | Captions/overlays (people watch muted) |
 | **CTA** | The ask + how it routes to registration |
@@ -38,98 +38,98 @@ Every concept below uses this shared structure so they're comparable and brief-r
 
 ---
 
-## Concept 1 — "The people who don't know how to build with it" *(proof concept — fully specced)*
+## Concept 1: "The people who don't know how to build with it" *(proof concept, fully specced)*
 
 - **Format:** Cold-open myth-bust / fear-to-empowerment
 - **Audience:** Working Professionals (primary) + Career Changers
 - **Platform:** TikTok + Reels (9:16, vertical)
-- **Length:** 35–40s
-- **Hook (0–3s):** Hard cut to presenter, dead serious: *"AI is not coming for your job."* — beat — *"…the person who learned to build with it is."*
+- **Length:** 35 to 40s
+- **Hook (0 to 3s):** Hard cut to presenter, dead serious: *"AI is not coming for your job."* (beat) *"...the person who learned to build with it is."*
 - **Beat sheet:**
-  - **0–3s** Hook line (above), bold red on-screen text.
-  - **3–10s** "Right now there are two people doing your job. One types questions into a chatbot. The other builds systems that do the work for them."
-  - **10–22s** Split-screen B-roll: left = someone copy-pasting from a chatbot; right = screen capture of an actual agent/skill running a task end-to-end.
-  - **22–32s** "The gap between them isn't talent. It's 12 weeks." Quick montage of the 12-week idea→working-system stat, Colaberry proof (5,000+ careers changed, 49 countries).
-  - **32–40s** Direct to camera: "We're showing exactly how it works — live, free, July 16. Bring an idea." CTA card.
+  - **0 to 3s** Hook line (above), bold red on-screen text.
+  - **3 to 10s** "Right now there are two people doing your job. One types questions into a chatbot. The other builds systems that do the work for them."
+  - **10 to 22s** Split-screen B-roll: left = someone copy-pasting from a chatbot; right = screen capture of an actual agent/skill running a task end-to-end.
+  - **22 to 32s** "The gap between them isn't talent. It's 12 weeks." Quick montage of the 12-week idea→working-system stat, Colaberry proof (5,000+ careers changed, 49 countries).
+  - **32 to 40s** Direct to camera: "We're showing exactly how it works: live, free, July 16. Bring an idea." CTA card.
 - **On-screen text:** `AI won't replace you.` → `The builder will.` → `User → Builder in 12 weeks` → `Free Open House · July 16`
-- **CTA:** "Save your seat — link in bio" → `learn.colaberry.com`
+- **CTA:** "Save your seat, link in bio" → `learn.colaberry.com`
 - **Share trigger:** The reframed fear ("it's not AI, it's the *builder*") is a quotable, slightly provocative line people tag colleagues with.
 - **Production:** 1 presenter, phone, 1 screen-capture clip of an agent running. ~1 hr shoot.
 
 ---
 
-## Concept 2 — "POV: you brought one idea and left with a working AI system"
+## Concept 2: "POV: you brought one idea and left with a working AI system"
 
 - **Format:** POV transformation / aspirational time-lapse
 - **Audience:** Builders & Entrepreneurs + Career Changers
 - **Platform:** Reels + Shorts (9:16)
-- **Length:** 25–30s
-- **Hook (0–3s):** Text-on-black, typed out: *"POV: you walked in with a sticky note and walked out with software."*
+- **Length:** 25 to 30s
+- **Hook (0 to 3s):** Text-on-black, typed out: *"POV: you walked in with a sticky note and walked out with software."*
 - **Beat sheet:**
-  - **0–4s** Hook text over a hand holding a sticky note that just says "an idea".
-  - **4–18s** Fast time-lapse: sticky note → prompt in Claude → a Skill/agent diagram (mirror the site's PROMPT → MODEL → SKILL schematic) → a working app screen.
-  - **18–25s** "No degree. No tests. Just an idea and 12 weeks." 
-  - **25–30s** "It starts at the free Open House — July 16." CTA.
+  - **0 to 4s** Hook text over a hand holding a sticky note that just says "an idea".
+  - **4 to 18s** Fast time-lapse: sticky note → prompt in Claude → a Skill/agent diagram (mirror the site's PROMPT → MODEL → SKILL schematic) → a working app screen.
+  - **18 to 25s** "No degree. No tests. Just an idea and 12 weeks." 
+  - **25 to 30s** "It starts at the free Open House: July 16." CTA.
 - **On-screen text:** `idea` → `prompt` → `system` → `shipped` → `Free · July 16`
-- **CTA:** "Come see day one — free. Link in bio."
+- **CTA:** "Come see day one, free. Link in bio."
 - **Share trigger:** Satisfying transformation arc + the "no degree / no tests" line lowers the barrier; viewers share to friends who say "I'm not technical enough."
 - **Production:** Screen recordings + simple motion text. No on-camera talent required (works as faceless content).
 
 ---
 
-## Concept 3 — "Things nobody tells you about learning AI"
+## Concept 3: "Things nobody tells you about learning AI"
 
 - **Format:** Listicle / contrarian advice (3 quick truths)
 - **Audience:** Developers & Technical Pros + Working Professionals
 - **Platform:** TikTok + LinkedIn (9:16 or 1:1)
-- **Length:** 40–45s
-- **Hook (0–3s):** *"3 things nobody tells you about 'learning AI' — number 2 cost me a year."*
+- **Length:** 40 to 45s
+- **Hook (0 to 3s):** *"3 things nobody tells you about 'learning AI': number 2 cost me a year."*
 - **Beat sheet:**
-  - **0–3s** Hook.
-  - **3–15s** **#1** "Watching tutorials isn't building. You learn AI by shipping something that breaks."
-  - **15–28s** **#2** "Prompting is not the skill. The skill is designing the *system* — prompt → model → skills → agents." (show the schematic)
-  - **28–38s** **#3** "You don't need a CS degree. You need one real project and feedback from people who've shipped."
-  - **38–45s** "That's literally what the Open House previews — free, July 16." CTA.
+  - **0 to 3s** Hook.
+  - **3 to 15s** **#1** "Watching tutorials isn't building. You learn AI by shipping something that breaks."
+  - **15 to 28s** **#2** "Prompting is not the skill. The skill is designing the *system*: prompt → model → skills → agents." (show the schematic)
+  - **28 to 38s** **#3** "You don't need a CS degree. You need one real project and feedback from people who've shipped."
+  - **38 to 45s** "That's literally what the Open House previews: free, July 16." CTA.
 - **On-screen text:** `#1 tutorials ≠ building` → `#2 prompting ≠ the skill` → `#3 no degree needed` → `Free · July 16`
-- **CTA:** "Full walkthrough at the free Open House — link in bio."
+- **CTA:** "Full walkthrough at the free Open House, link in bio."
 - **Share trigger:** Strong-opinion list format is highly saveable/shareable; #2 ("prompting is not the skill") is a debate-starter that drives comments → reach.
 - **Production:** 1 presenter talking to camera + 1 schematic overlay. ~45 min shoot.
 
 ---
 
-## Concept 4 — "I asked a career changer what changed" *(social proof / mini founder-story)*
+## Concept 4: "I asked a career changer what changed" *(social proof, mini founder-story)*
 
 - **Format:** Testimonial-style / before-after story
 - **Audience:** Career Changers (primary)
 - **Platform:** Reels + YouTube Shorts (9:16)
-- **Length:** 30–35s
-- **Hook (0–3s):** Quick cut to a person: *"18 months ago I was scared AI would end my career. Now I build with it."*
+- **Length:** 30 to 35s
+- **Hook (0 to 3s):** Quick cut to a person: *"18 months ago I was scared AI would end my career. Now I build with it."*
 - **Beat sheet:**
-  - **0–5s** Hook to camera.
-  - **5–18s** "I'm not a developer. I started with one idea and a lot of doubt." B-roll of them working on a laptop.
-  - **18–28s** "Twelve weeks later I had a working AI system — and a completely different relationship with my job." Show 5,000+ / 49-countries proof.
-  - **28–35s** "If that's where you are, the free Open House is where it starts — July 16." CTA.
+  - **0 to 5s** Hook to camera.
+  - **5 to 18s** "I'm not a developer. I started with one idea and a lot of doubt." B-roll of them working on a laptop.
+  - **18 to 28s** "Twelve weeks later I had a working AI system, and a completely different relationship with my job." Show 5,000+ / 49-countries proof.
+  - **28 to 35s** "If that's where you are, the free Open House is where it starts: July 16." CTA.
 - **On-screen text:** `"scared → builder"` → `not a developer` → `12 weeks` → `Free · July 16`
-- **CTA:** "Start where I started — free Open House, link in bio."
+- **CTA:** "Start where I started, free Open House, link in bio."
 - **Share trigger:** Relatable identity story ("not a developer / was scared") gives permission; viewers DM it to a friend in the same spot.
-- **Production:** 1 real learner or stand-in + light B-roll. (If using a real alum, get a quote/release — flag for Sohail.)
+- **Production:** 1 real learner or stand-in + light B-roll. (If using a real alum, get a quote/release, flag for Sohail.)
 
 ---
 
-## Concept 5 — "Watch an idea become an AI system in 60 seconds"
+## Concept 5: "Watch an idea become an AI system in 60 seconds"
 
 - **Format:** Live build / screen-capture demo (proof-of-capability)
 - **Audience:** Developers + Builders/Entrepreneurs
-- **Platform:** YouTube Shorts + TikTok (9:16) — strong remix/duet potential
-- **Length:** 55–60s
-- **Hook (0–3s):** *"Give me 60 seconds and I'll turn one sentence into a working AI agent."* (countdown timer appears top-right)
+- **Platform:** YouTube Shorts + TikTok (9:16), strong remix/duet potential
+- **Length:** 55 to 60s
+- **Hook (0 to 3s):** *"Give me 60 seconds and I'll turn one sentence into a working AI agent."* (countdown timer appears top-right)
 - **Beat sheet:**
-  - **0–5s** Hook + start countdown.
-  - **5–40s** Real screen capture: type a plain-English goal → Claude → define a Skill → agent runs the task → result appears. Narrate the PROMPT → MODEL → SKILL → DEPLOY arc.
-  - **40–52s** "That's the exact framework we teach: Learn with Claude. Build through Colaberry. Deploy in the real world."
-  - **52–60s** Timer hits zero. "Want the full version? Free Open House, July 16." CTA.
+  - **0 to 5s** Hook + start countdown.
+  - **5 to 40s** Real screen capture: type a plain-English goal → Claude → define a Skill → agent runs the task → result appears. Narrate the PROMPT → MODEL → SKILL → DEPLOY arc.
+  - **40 to 52s** "That's the exact framework we teach: Learn with Claude. Build through Colaberry. Deploy in the real world."
+  - **52 to 60s** Timer hits zero. "Want the full version? Free Open House, July 16." CTA.
 - **On-screen text:** `sentence → agent in 60s` → countdown → `Learn · Build · Deploy` → `Free · July 16`
-- **CTA:** "See the full system live — free, link in bio."
+- **CTA:** "See the full system live, free, link in bio."
 - **Share trigger:** The countdown + tangible "it actually works" payoff is highly rewatchable and screenshot-worthy; technical viewers stitch/duet it.
 - **Production:** Screen capture + voiceover. Highest "proof" value; rehearse the build so it lands inside 60s.
 
@@ -148,10 +148,10 @@ Every concept below uses this shared structure so they're comparable and brief-r
 
 ## Open questions for Sohail & Ali (before production)
 1. Do we have a **real alum** for Concept 4, or shoot it as a composite/stand-in?
-2. Confirm CTA destination — `learn.colaberry.com` vs. a dedicated Open House registration URL.
+2. Confirm CTA destination: `learn.colaberry.com` vs. a dedicated Open House registration URL.
 3. Priority order to produce first (recommendation: **C5 → C1 → C2** for fastest proof + reach).
 4. Any compliance line needed (Texas Workforce Commission approved) in captions?
 
 ---
 
-*Draft generated for review. Next step: incorporate Sohail/Ali feedback, then hand top 2–3 to production.*
+*Draft generated for review. Next step: incorporate Sohail/Ali feedback, then hand top 2 to 3 to production.*
